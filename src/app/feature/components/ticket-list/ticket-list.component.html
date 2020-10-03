@@ -1,0 +1,12 @@
+<table *ngIf="ticketList$ | async as list">
+    <tr *ngFor="let ticket of list;trackBy: trackByFn">
+        <td><app-dot-icon [fillColor]="statusColor.get(ticket.status)"></app-dot-icon></td>
+        <td>{{ticket.description}}</td>
+        <td>
+            <select [ngClass]="statusColor.get(ticket.status)" *ngIf="allTicketStatus$ | async as ticketStatus"
+            (change)="onStatusChange($event.target.value, ticket.id)" [value]="ticket.status">
+                <option *ngFor="let item of ticketStatus" [value]="item.id">{{item.friendlyName}}</option>
+            </select>
+        </td>
+    </tr>
+</table>

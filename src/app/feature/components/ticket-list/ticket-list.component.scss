@@ -1,0 +1,28 @@
+table {
+    border-spacing: 0;
+    width: 100%;
+
+    tr {
+        border-bottom: 1px solid black;
+    }
+
+    td {
+        text-align: left;
+        padding: 8px;
+    }
+}
+
+select {
+    &.red {
+        background-color: red;
+    }
+    &.blue {
+        background-color: blue;
+    }
+    &.green {
+        background-color: green;
+    }
+    option {
+        background-color: white;
+    }
+}

@@ -1,0 +1,40 @@
+nav {
+    width: 100%;
+
+    a {
+        float: left;
+        padding: 11px;
+        width: 20%;
+        text-align: center;
+
+        &:hover {
+            cursor: pointer;
+            background-color: #ddd;
+        }
+
+        &.active {
+            background-color:gray;
+            color: white;
+        }
+
+        &.inactive {
+            pointer-events: none;
+            cursor: default;
+        }
+    }
+
+
+
+
+}
+
+@media (max-width: 576px) {
+    nav {
+         a {
+            float: none;
+            display: block;
+            width: 100%;
+            text-align: left;
+        }
+    }
+  }

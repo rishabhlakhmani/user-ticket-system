@@ -12,7 +12,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 2,
-      "status": 1
+      "status": 2
     },
     {
       "id": 2,
@@ -33,7 +33,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 2
     },
     {
       "id": 5,
@@ -47,56 +47,56 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 2,
-      "status": 1
+      "status": 2
     },
     {
       "id": 7,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 2
     },
     {
       "id": 8,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 2
     },
     {
       "id": 9,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 2
     },
     {
       "id": 10,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 2,
-      "status": 1
+      "status": 2
     },
     {
       "id": 11,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 2,
-      "status": 1
+      "status": 2
     },
     {
       "id": 12,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 2
     },
     {
       "id": 13,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 2,
-      "status": 1
+      "status": 3
     },
     {
       "id": 14,
@@ -117,7 +117,7 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 3
     },
     {
       "id": 17,
@@ -131,56 +131,56 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 3
     },
     {
       "id": 19,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 3
     },
     {
       "id": 20,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 3
     },
     {
       "id": 21,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 2,
-      "status": 1
+      "status": 3
     },
     {
       "id": 22,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 3
     },
     {
       "id": 23,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 3
     },
     {
       "id": 24,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 2,
-      "status": 1
+      "status": 3
     },
     {
       "id": 25,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus ligula quis sapien ullamcorper viverra.",
       "assignee": 1,
       "type": 1,
-      "status": 1
+      "status": 3
     },
     {
       "id": 26,

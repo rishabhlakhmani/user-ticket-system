@@ -1,0 +1,9 @@
+<div *ngIf="user$ | async as user">
+    <div class="user-header">
+        <app-user-icon [fillColor]="userStatusColor"></app-user-icon>
+        <h5>{{user.name}}</h5>
+    </div>
+    <hr>
+    <app-ticket-navgation [navItems]="navItems" [currentUserId]="userId"></app-ticket-navgation>
+    <router-outlet></router-outlet>
+</div>

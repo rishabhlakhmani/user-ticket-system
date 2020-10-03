@@ -1,0 +1,29 @@
+header {
+    background-color: gray;
+    padding: 10px;
+    font-size: 25px;
+    color: black;
+}
+
+section {
+    display: flex;
+}
+
+article {
+    flex: 11;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+aside {
+    flex: 1;
+    background: #ccc;
+    padding: 10px;
+}
+
+
+@media (max-width: 576px) {
+    section {
+      flex-direction: column;
+    }
+  }

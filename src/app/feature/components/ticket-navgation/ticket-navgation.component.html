@@ -1,0 +1,6 @@
+<nav>
+    <a *ngFor="let item of navItems" [routerLink]="['/user',currentUserId, item.category, item.id]"
+        (click)="onClick(item)" routerLinkActive='active' [ngClass]="item.count === 0 ? 'inactive': ''">
+        {{item.friendlyName}} ({{item.count}})
+    </a>
+</nav>
